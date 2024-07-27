@@ -1,0 +1,23 @@
+{
+  "name": "myreactdev",
+  "version": "1.0.0",
+  "description": "this is react dev by Shivam Gupta",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivamgupta2023/My-react-dev.git"
+  },
+  "keywords": [],
+  "author": "Shivam Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivamgupta2023/My-react-dev/issues"
+  },
+  "homepage": "https://github.com/Shivamgupta2023/My-react-dev#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
